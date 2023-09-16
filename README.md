@@ -9,3 +9,8 @@ In a card matching game, players are presented with a grid of face-down cards, a
 3. <strong>Card Flipping</strong> - Allow players to click on cards to flip them over and reveal the symbols or images on the cards.
 4. <strong>Matching Logic</strong> - implement the logic to check if two flipped cards match. If they match, keep them face up. If they don't, flip them back face down.
 5. <strong>Score</strong> - At the bottom implement a scoring system based on the number of moves or time taken
+
+## To run project use
+
+1. `yarn install`
+2. `yarn run dev`
